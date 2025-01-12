@@ -1,0 +1,28 @@
+# Binaries
+bin/
+mt_server
+mt_agent
+
+# TLS certificates
+certs/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
